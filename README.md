@@ -1,6 +1,6 @@
 # chatRoom
-Flask based chat service using SOCKETIO (a jquery library) .
-1.**Coded all Flask Blueprints from scratch**
-2.**Wrote database schema for user profile**
-3.**Implemented SignIn, SignUp and Logout features**
-4.**Used Jquery library to implement chat mecahnism**
+A chat application which allows users to create their personal room and by loggin in.
+* **Coded all Flask Blueprints from scratch**
+* **Wrote database schema for user profile**
+* **Implemented Sign-In, Sign-Up and Log-out features**
+* **Used Jquery library to implement chat mechanism**
